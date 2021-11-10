@@ -8,11 +8,12 @@ In which I used and learned about:
 ## Make a custom hook(useFetch)
 * Handle fetching errors
 * The reuasability concept
-## Controlled inputs
 ## Routing
 * Route link
 * Route Parameters
-## POST and GET requests
-## JSON
-## React virtual DOM
-## SPA concept in React
+## Others
+* POST and GET requests
+* JSON
+* React virtual DOM
+* SPA (Single Page Application)
+* Controlled inputs

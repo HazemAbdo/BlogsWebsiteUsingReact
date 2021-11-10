@@ -17,3 +17,7 @@ In which I used and learned about:
 * React virtual DOM
 * SPA (Single Page Application)
 * Controlled inputs
+
+
+
+![Alt Text](https://github.com/HazemAbdo/BlogsWebsiteUsingReact/blob/main/ezgif.com-gif-maker.gif)
